@@ -1,2 +1,2 @@
 # Pulsar-Candidates-Calssification
-Using HTRU2 dataset
+HTRU2 data set link: https://archive.ics.uci.edu/ml/datasets/HTRU2
